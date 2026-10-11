@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ілюстрація для ПЗ 3: будинок з блискавкою на синьому колі -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#007AFF"
+        android:pathData="M60,4a56,56 0,1 1,0 112a56,56 0,1 1,0 -112z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,24L96,53L87,53L87,92L33,92L33,53L24,53Z" />
+    <path
+        android:fillColor="#FF9500"
+        android:pathData="M65,42L47,68L58,68L54,86L73,58L62,58Z" />
+</vector>
